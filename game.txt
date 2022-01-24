@@ -23,8 +23,16 @@ game()
     fire();
   }
 }
------------>new
+
 run(dir,speed)
 {
   move(dir,speed);
+}
+
+loading()
+{
+    if(keydown.R())
+    {
+	werper_loading();
+    }
 }
