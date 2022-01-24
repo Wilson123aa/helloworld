@@ -23,3 +23,8 @@ game()
     fire();
   }
 }
+----------->new
+run(dir,speed)
+{
+  move(dir,speed);
+}
