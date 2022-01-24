@@ -15,3 +15,11 @@ vmeioqprjvi
 
 vmeiqpfjiwq
 this jiqpwniwqf
+
+game()
+{
+  if(mouse(1))
+  {
+    fire();
+  }
+}
